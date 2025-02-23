@@ -1,0 +1,8 @@
+Model Information:
+* title:	Laptop
+* source:	https://sketchfab.com/3d-models/laptop-4a2a798d325b4235a74469714a15b075
+* author:	CG Robot (https://sketchfab.com/cgrobot)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

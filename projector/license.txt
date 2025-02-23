@@ -1,0 +1,11 @@
+Model Information:
+* title:	projector!
+* source:	https://sketchfab.com/3d-models/projector-879b5e4bb0fd438989dfaaff1e955acd
+* author:	iseta (https://sketchfab.com/iseta)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "projector!" (https://sketchfab.com/3d-models/projector-879b5e4bb0fd438989dfaaff1e955acd) by iseta (https://sketchfab.com/iseta) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

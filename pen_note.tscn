@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://cjfpovj7kqoke"]
+
+[ext_resource type="PackedScene" uid="uid://dkak7ynqr56cv" path="res://pen__note_-/scene.gltf" id="1_su55g"]
+
+[node name="Sketchfab_Scene" instance=ExtResource("1_su55g")]

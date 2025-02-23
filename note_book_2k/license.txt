@@ -1,0 +1,11 @@
+Model Information:
+* title:	Note Book [2K]
+* source:	https://sketchfab.com/3d-models/note-book-2k-66f4d80e201848189d498563b5a72cf7
+* author:	Lyndschoko (https://sketchfab.com/Lyndschoko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Note Book [2K]" (https://sketchfab.com/3d-models/note-book-2k-66f4d80e201848189d498563b5a72cf7) by Lyndschoko (https://sketchfab.com/Lyndschoko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
