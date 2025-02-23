@@ -1,7 +1,7 @@
 [gd_scene load_steps=23 format=3 uid="uid://ctlekjithlxmr"]
 
 [ext_resource type="PackedScene" uid="uid://d2xfwhkl6auqq" path="res://scene.gltf" id="1_gmf7k"]
-[ext_resource type="PackedScene" uid="uid://bs220e3axurvc" path="res://apple_iphone_based_mobile_phone/scene.gltf" id="2_mlue4"]
+[ext_resource type="PackedScene" uid="uid://bs220e3axurvc" path="res://assets/apple_iphone_based_mobile_phone/scene.gltf" id="2_mlue4"]
 [ext_resource type="PackedScene" uid="uid://bkaa8qr8g7b3x" path="res://note_book_2k/scene.gltf" id="3_61sgi"]
 [ext_resource type="PackedScene" uid="uid://dvysfg0qqlwto" path="res://paper_ball_free/scene.gltf" id="4_anmsk"]
 [ext_resource type="PackedScene" uid="uid://otp4l6e53dtf" path="res://used_pencil_-_2048px2/scene.gltf" id="4_w4og8"]
@@ -16,12 +16,12 @@
 [ext_resource type="PackedScene" uid="uid://c3ki875xjla6d" path="res://projector/scene.gltf" id="14_44ow7"]
 [ext_resource type="PackedScene" uid="uid://b0x2pnbt42swr" path="res://projector_screen_7mb/scene.gltf" id="15_lrfnb"]
 [ext_resource type="PackedScene" uid="uid://v0wg0oddil05" path="res://flower_pot/scene.gltf" id="16_4ek7h"]
-[ext_resource type="PackedScene" uid="uid://ctu2xjmcs5pa0" path="res://coffee_mug_school_project/scene.gltf" id="17_0umw0"]
+[ext_resource type="PackedScene" uid="uid://ctu2xjmcs5pa0" path="res://assets/coffee_mug_school_project/scene.gltf" id="17_0umw0"]
 [ext_resource type="PackedScene" uid="uid://c5piyrvfjkox7" path="res://legal_pad/scene.gltf" id="18_7srob"]
 [ext_resource type="PackedScene" uid="uid://b66suf3rtxno5" path="res://keys/scene.gltf" id="19_kd0gl"]
 [ext_resource type="PackedScene" uid="uid://bylyhma7mf1i1" path="res://paper_pile_pilha_de_papeis/scene.gltf" id="20_3kpsm"]
 [ext_resource type="PackedScene" uid="uid://d0qnqsnag8flp" path="res://leather_bag/scene.gltf" id="21_dsl3a"]
-[ext_resource type="PackedScene" uid="uid://c7eeahycvt73b" path="res://coffee_machine/scene.gltf" id="22_3ju8w"]
+[ext_resource type="PackedScene" uid="uid://c7eeahycvt73b" path="res://assets/coffee_machine/scene.gltf" id="22_3ju8w"]
 
 [node name="3D Still" type="Node3D"]
 

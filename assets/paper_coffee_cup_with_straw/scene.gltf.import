@@ -3,17 +3,17 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bjeh77ruyjbed"
-path="res://.godot/imported/scene.gltf-6fed95f62403ae9d9dbaff08702dc109.scn"
+uid="uid://la1g6anwn4lc"
+path="res://.godot/imported/scene.gltf-1d60ab3ca09c717248bca3f85d12b093.scn"
 
 [deps]
 
-source_file="res://scene.gltf"
-dest_files=["res://.godot/imported/scene.gltf-6fed95f62403ae9d9dbaff08702dc109.scn"]
+source_file="res://assets/paper_coffee_cup_with_straw/scene.gltf"
+dest_files=["res://.godot/imported/scene.gltf-1d60ab3ca09c717248bca3f85d12b093.scn"]
 
 [params]
 
-nodes/root_type=""
+nodes/root_type="Node3D"
 nodes/root_name=""
 nodes/apply_root_scale=true
 nodes/root_scale=1.0

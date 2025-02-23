@@ -3,17 +3,17 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bjeh77ruyjbed"
-path="res://.godot/imported/scene.gltf-6fed95f62403ae9d9dbaff08702dc109.scn"
+uid="uid://otp4l6e53dtf"
+path="res://.godot/imported/scene.gltf-30bd0901cf1fc79fb695514a7fbd962e.scn"
 
 [deps]
 
-source_file="res://scene.gltf"
-dest_files=["res://.godot/imported/scene.gltf-6fed95f62403ae9d9dbaff08702dc109.scn"]
+source_file="res://assets/used_pencil_-_2048px2/scene.gltf"
+dest_files=["res://.godot/imported/scene.gltf-30bd0901cf1fc79fb695514a7fbd962e.scn"]
 
 [params]
 
-nodes/root_type=""
+nodes/root_type="Node3D"
 nodes/root_name=""
 nodes/apply_root_scale=true
 nodes/root_scale=1.0
